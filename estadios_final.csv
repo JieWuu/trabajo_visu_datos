@@ -1,0 +1,123 @@
+estadio,capacidad,año,equipo,PAIS,ciudad
+Estadio Santiago Bernabéu,  85_454,1947,  Madrid   # Real Madrid,ESPAÑA,
+Estadio Vicente Calderón,   55_005,1966,  Madrid   # Atlético Madrid,ESPAÑA,
+Camp Nou, 96_636,1957, Barcelona  # FC Barcelona,ESPAÑA,
+Estadi Olímpic Lluís Companys, 55_121,1927,  Barcelona   # Espanyol Barcelona,ESPAÑA,
+Estadio Benito Villamarín,  51_309,1929,  Sevilla   # Betis Sevilla,ESPAÑA,
+Estadio Olímpico de Sevilla, 57_619,1997, Sevilla,ESPAÑA,
+Estadio Mestalla, 52_602,1923, Valencia # FC Valencia,ESPAÑA,
+Happel-Stadion|Ernst-Happel-Stadion|Praterstadion,    53_295, 1931,,AUSTRIA,
+Hanappi-Stadion|Gerhard-Hanappi-Stadion|Weststadion, 18_456, 1977,,AUSTRIA,
+Horr-Stadion|Franz-Horr-Stadion|$Generali$ Arena,          13_135, 1925,,AUSTRIA,
+Hohe Warte|Stadion Hohe Warte, 6_000,  Wien   # First Vienna FC,,AUSTRIA,
+Wiener Sportclub-Platz, 8_700, 1904,,AUSTRIA,
+Simmeringer Had, 5_000, 1920,,AUSTRIA,
+$UPC$-Arena, 15_323, 1997,,AUSTRIA,
+Gruabn,    10_500, 1919,,AUSTRIA,
+Franz-Fekete-Stadion,  12_000, 1950,,AUSTRIA,
+Stadion Hartberg,   6_000, Hartberg              # TSV Hartberg,,AUSTRIA,
+Linzer Stadion|Stadion auf der Gugl, 20_104, 1952,,AUSTRIA,
+$Keine Sorgen$ Arena, 7_334, 2003,,AUSTRIA,
+Waldstadion, 7_152, Pasching,,AUSTRIA,
+Vorwärts-Stadion, 10_000, SteyrWiener Neustädter,,AUSTRIA,
+Stadion|Stadion Wiener Neustadt, 7_036,  1955,,AUSTRIA,
+Bundesstadion Südstadt,    12_000, 1967,,AUSTRIA,
+$NV$-Arena|Niederösterreich-Arena, 8_000, 2012,,AUSTRIA,
+Voithplatz, 8_000, St. Pölten   # SKN St. Pölten Amateure,,AUSTRIA,
+Sportplatz Horn, 3_000, Horn   # SV Horn,,AUSTRIA,
+Sepp-Doll-Stadion|Kremserstadion, 10_000, 1923,,AUSTRIA,
+Pappelstadion, 15_700, 1952,,AUSTRIA,
+Heidebodenstadion, 5_000, Parndorf     # SC-ESV Parndorf,,AUSTRIA,
+Wörtherseestadion|$Hypo$-Arena,      32_000, 2008,,AUSTRIA,
+Lavanttal-Arena,  7_700, 2003,,AUSTRIA,
+Goldeckstadion, 6_500,  Spittal (an der Drau),,AUSTRIA,
+Wals-Siezenheim-Stadion|$Red Bull$ Arena, 31_020, 2003,,AUSTRIA,
+Untersberg-Arena, 2_955, 1989,,AUSTRIA,
+Tivoli|Tivoli-Neu Stadion, 17_400, 2000,,AUSTRIA,
+Kufstein Arena|Grenzlandstadion, 5_000, 1925,,AUSTRIA,
+Alpenstadion, 5_500, Wattens,,AUSTRIA,
+Schnabelholz|$Cashpoint$ Arena, 8_500, 1990,,AUSTRIA,
+Reichshofstadion, 8_800, 1953,,AUSTRIA,
+Bodenseestadion|$Casino$-Stadion, 12_000, 1951,,AUSTRIA,
+Stadion Birkenwiese, 12_000, 1935,,AUSTRIA,
+Stade de Genève,  31_228,,,SUIZA,
+St. Jakob-Park,  42_000,,,SUIZA,
+Stade de Suisse,  31_907,,,SUIZA,
+Letzigrund, 30_000,,,SUIZA,
+Olympiastadion,   74_176, 1936,,ALEMANIA,
+Alte Försterei|Stadion An der Alten Försterei, 21_738, 1920,,ALEMANIA,
+Stadion der Freundschaft, 22_528, 1930,,ALEMANIA,
+Volksparkstadion|$Imtech$ Arena,  51_055, 1953,,ALEMANIA,
+Millerntor-Stadion, 29_633,  Auf dem Heiligengeistfeld // 20359 Hamburg   # FC St. Pauli,,ALEMANIA,
+Weserstadion, 42_100, Franz-Böhmert-Straße 7 // 28205 Bremen  # Werder Bremen,,ALEMANIA,
+Westfalenstadion|$Signal Iduna$ Park,   67_000, Dortmund    #  Borussia Dortmund,,ALEMANIA,
+Arena Auf Schalke|$Veltins$-Arena,  53_804,  Gelsenkirchen    # FC Schalke 04,,ALEMANIA,
+Müngersdorfer Stadion|$RheinEnergie$ Stadion,  46_134, 2004,,ALEMANIA,
+Stadion im Borussia-Park, 54_049, Mönchengladbach   # Borussia Mönchengladbach ,,ALEMANIA,
+Ulrich-Haberland-Stadion|$Bay$Arena, 30_210, 1958,,ALEMANIA,
+Düsseldorf Arena|$Esprit$ Arena, 54_600, 2005,,ALEMANIA,
+Ruhrstadion|$Rewirpower$-Stadion,  29_299, 1911,,ALEMANIA,
+Bielefelder Alm|Alm-Stadion|$Schüco$ Arena,  27_300, 1926,,ALEMANIA,
+$Benteler$-Arena, 15_000, 2008,,ALEMANIA,
+$Allianz$ Arena, 66_016, 2005,,ALEMANIA,
+Frankenstadion|$Grundig$-Stadion,  41_926,  Max-Morlock-Platz 1 // 90480 Nürnberg  #  1. FC Nürnberg,,ALEMANIA,
+Augsburg Arena|$SGL$ Arena, 30_660, 2009,,ALEMANIA,
+Ronhof|Sportpark Ronhof|$Trolli$ Arena, 18_000, 1910,,ALEMANIA,
+$Audi$-Sportpark,  15_690, 2010,,ALEMANIA,
+Gottlieb-Daimler-Stadion|$Mercedes-Benz$ Arena,   54_267,  Stuttgart   #  VfB Stuttgart,,ALEMANIA,
+Rhein-Neckar-Arena|$Wirsol$ Rhein-Neckar-Arena, 30_150,  2009,,ALEMANIA,
+Dreisamstadion|$Mage Solar$ Stadion, 24_000, 1954,,ALEMANIA,
+Wildparkstadion, 29_699, 1955,,ALEMANIA,
+Städtisches Waldstadion Aalen|$Scholz$ Arena, 13_251, 1949,,ALEMANIA,
+Hardtwaldstadion, 12_100, 1951,,ALEMANIA,
+Albstadion|$Voith$-Arena, 15_000, Heidenheim # 1. FC Heidenheim 1846,,ALEMANIA,
+Waldstadion|$Commerzbank$-Arena, 48_132, Frankfurt    #  Eintracht Frankfurt,,ALEMANIA,
+Stadion am Bornheimer Hang|$Frankfurter Volksbank$ Stadion, 12_542, 1931,,ALEMANIA,
+Jonathan-Heimes-Stadion am Böllenfalltor, 17_468, Darmstadt # SV Darmstadt 98,,ALEMANIA,
+Niedersachsenstadion|$HDI$-Arena, 44_652,  Hannover    #  Hannover 96,,ALEMANIA,
+$Volkswagen$ Arena, 30_000,  2002,,ALEMANIA,
+Eintracht-Stadion, 23_325,  1923,,ALEMANIA,
+Zentralstadion|$Red Bull$ Arena, 44_199, Leipzig   #  RB Leipzig,,ALEMANIA,
+Dynamo-Stadion|Rudolf-Harbig-Stadion|$Glücksgas$-Stadion, 32_066,  Dresden   # Dynamo Dresden,,ALEMANIA,
+Erzgebirgsstadion|$Sparkassen$-Erzgebirgsstadion, 15_711, Aue    # FC Erzgebirge Aue,,ALEMANIA,
+Fritz-Walter-Stadion, 43_450, Kaiserslautern    #  1. FC Kaiserslautern,,ALEMANIA,
+$Coface$ Arena, 33_500, 2011,,ALEMANIA,
+Stadio Olimpico di Roma,     72_698,1927,,ITALIA,   Roma 
+Stadio San Nicola,       58_248,1990,,ITALIA, Bari 
+Stadio Giuseppe Meazza|San Siro, 80_074,1926,,ITALIA,   Milano  
+Stadio San Paolo,        60_240,1959,,ITALIA, Napoli  
+Wembley|Wembley Stadium, 90_000,2007,,INGLATERRA, London
+Ashburton Grove|$Emirates$ Stadium, 60_361,2006,,INGLATERRA,  London    # FC Arsenal
+Old Trafford,    76_212,1910,,INGLATERRA, Manchester    # Manchester United
+St. James' Park, 52_387,1891,,INGLATERRA,  Newcastle   # Newcastle United
+Stade de France, 81_338, 1998,,FRANCIA, Paris (Saint-Denis)     ##   www.stadefrance.com   # fix: use Saint-Denis??
+Parc des Princes,  51_000, 1972,,FRANCIA, Paris        
+Stade Vélodrome, 60_031, 1937,,FRANCIA, Marseille
+Stade Pierre-Mauroy, 50_100, 2012,,FRANCIA, Lille (Villeneuve-d'Ascq)
+Stade Bollaert-Delelis|Stade Félix Bollaert-Delelis, 45_000, 1933,,FRANCIA, Lens
+Stade de Bordeaux|Grand Stade de Bordeaux, 42_000, 2015,,FRANCIA, Bordeaux
+Stade Geoffroy-Guichard, 1931, 41_000,,FRANCIA, Saint-Etienne  
+Stadium Municipal, 1937,  41_000,,FRANCIA, Toulouse
+Stade de Nice|$Allianz$ Riviera, 2013,  35_624,,FRANCIA, Nice 
+Amsterdam ArenA,    51_628,1996,,HOLANDA, Amsterdam   # Ajax Amsterdam
+Stadion Feijenoord|De Kuip, 51_137,1937,,HOLANDA, Rotterdam   # Feyenoord Rotterdam
+National Stadium Warszawa, 56_070,,,POLONIA,
+PGE Arena,  39_150,,,POLONIA,
+Municipal Stadium Wrocław, 40_000,,,POLONIA,
+Municipal Stadium Poznań, 39_550,,,POLONIA,
+           Samara Arena|Samara|Cosmos Arena,   45_000,,,RUSIA, Samara
+   Nizhny Novgorod Stadium|Nizhny Novgorod,  45_000,,,RUSIA, Nizhny Novgorod
+        Volgograd Arena|Volgograd, 45_000,,,RUSIA, Volgograd
+     Ekaterinburg Arena|Ekaterinburg|Central Stadium, 35_000,,,RUSIA, Ekaterinburg
+         Mordovia Arena|Mordovia, 44_000,,,RUSIA, Saransk
+           Rostov Arena|Rostov, 45_000,,,RUSIA, Rostov-on-Don
+      Kaliningrad Stadium|Kaliningrad|Arena Baltika,  35_000,,,RUSIA, Kaliningrad
+            Kazan Arena|Kazan, 45_000,,,RUSIA, Kazan
+            Fisht Stadium|Fisht|Fisht Olympic Stadium, 45_000,,,RUSIA, Sochi
+  Saint Petersburg Stadium|Saint Petersburg|Krestovsky Stadium|Zenit Arena, 67_000,,,RUSIA, Saint Petersburg
+         Spartak Stadium|Spartak|Otkritie Arena|Otkrytiye Arena,  45_000,,,RUSIA, Moscow
+        Luzhniki Stadium|Luzhniki, 80_000,,,RUSIA, Moscow
+Olympic Stadium Kiev, 70_050,,,UCRANIA,
+Donbass Arena, 51_500,,,UCRANIA,
+Metalist Stadium, 37_750,,,UCRANIA,
+Arena Lviv, 32_990,,,UCRANIA,
